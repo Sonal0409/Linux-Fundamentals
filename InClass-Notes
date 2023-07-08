@@ -1,0 +1,75 @@
+Hello everyone!
+
+Trainer: Sonal Mittal
+
+Session: Q & A session
+
+Duration: 1 Hour
+
+Agenda:
+================
+
+Discuss on any topic with respect to pre-requiste courses and ask questions.
+
+
+Why Linux OS?
+
+Docker, ansible --> LINUX os
+
+Knowling the linux platform
+
+  > deploying the application
+  > troubleshoot the issue
+  > logs monitor, fix the issues
+
+Basic fundametals and commands --> devops training easily
+
+> open source OS
+
+> distribution
+
+   > ubuntu OS already present with all devops tool installed on them  => Edureka LAB
+
+or centos or Amazon linux OS  ==> personal lab
+   > RHEL
+
+
+windows, or mac --> you will be creating a linux VM on the cloud.. AWS--> remotly connect to it from you local laptop
+
+Nothign will be installed on the personal laptop
+
+No devops tool, will be installed on personal laptop
+
+You can use you CMD prompt of windows or Termianl of MAC to connect remotely to the VMs
+=========================
+
+Key focus area on Linux:
+================================
+
+> Linux File system : 15 different directories
+
+
+/      : root system, all the files system is present
+/root   : this directory for the admin use
+/sonal/home: every use will have a home directroy , where user related configuration related file are present
+/bin :  application related binary files will be present
+/var/log : application that you use on the OS, will generate log, by defaul the logs will be present in this directory
+/opt   : opt = optional : stores optional binary files for application on the OS
+/etc  : OS configuration files
+/tmp : tmp = temporary folder :temporary files
+
+
+DEMO : in the live trainings
+
+basic command on the linux OS
+
+ls : list the files in the directory,
+cd: change directory
+pwd: print working directory
+
+Files: creating file, deletion, copy file
+
+installing packages, upgrading removing packing
+
+Centos: yum install package
+Ubuntu: apt-get install package
